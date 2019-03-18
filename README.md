@@ -14,14 +14,15 @@ This is a simple React app for the membership management of a company. The data 
 ```
 git clone https://github.com/dozikal/member-mgnt-console.git
 ```
-2) Download dependencies
+
+2) Navigate to the root of the project
+`
+.../grp-mgnt-console
+`
+
+3) Download dependencies
 ```
 npm install
-```
-
-3) Navigate to the root of the project
-```
-.../grp-mgnt-console
 ```
 
 4) a) Quickly run the app in development mode.
