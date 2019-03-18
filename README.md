@@ -1,8 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Group Management Console
+# Group Management Console
 
-This is a simple React app for the membership management of a company. The data is stored as a directional Graph Data Structure.
+This is a simple React app for the membership management of a company. The data is stored using a directional Graph Data Structure.
 
 ## Prerequisites
 
