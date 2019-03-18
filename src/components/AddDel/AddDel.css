@@ -1,0 +1,6 @@
+.ad-container1 {
+    position: fixed;
+    top: 66px;
+    right: 10px;
+    z-index: 10000000;
+}

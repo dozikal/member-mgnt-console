@@ -1,0 +1,49 @@
+.lp-container1 {
+    background-color: #C2CAD0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.lp-container2 {
+    padding: 10px 0px 0px 15px !important;
+}
+
+.lp-container3 {
+    padding-left: 10px;
+    margin: 5px 0px 5px 50px;
+    display: flex;
+    width: 325px;
+    flex-direction: column;
+    border-style: solid;
+    border-width: 0px 0px 0px 1px;
+    border-color: rgba(30,144, 255, 0.5);
+}
+
+.lp-container3:hover{
+    border-color: dodgerblue;
+    border-width:  0px 0px 0px 2px;
+    padding-left: 9px;
+}
+
+.lp-container4 {
+    background-color: #C2CAD0;
+    min-height: 100vh;
+}
+
+.lp-container6 {
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: white;
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+
+.lp-container7 {
+    margin-top: 15px;
+}
+
+.lp-container8 {
+    overflow: hidden;
+    overflow-y: scroll;
+    height: calc(100vh - 105px);
+    padding-bottom: 15px;
+}
