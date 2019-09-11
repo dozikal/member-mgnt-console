@@ -1,7 +1,7 @@
 
 # Group Management Console
 
-This is a simple React app for the membership management of a company. The data is stored using a directional Graph Data Structure.
+Simple web browser app for the management of student groups/classes in a school. This is a React based app implementing a directional Graph Data Structure and a local NoSQL-like database.
 
 ## Prerequisites
 
